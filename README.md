@@ -1,7 +1,9 @@
 https://jordanpolitz.github.io/DataVizForAll-Section3-Exercise/
 
 # DataVizForAll-Section3-Exercise
-This website embeds a leaflet map: 3 universities in Hartford, CT, and a Highcharts scatter plot: school grade vs. household income
+This website includes:
+1 . Leaflet map: Three Universities in Hartford, CT
+2 . Highcharts scatter plot: Grades Above/ Below Average vs. Median Household Income
 
 <iframe src="https://jordanpolitz.github.io/leaflet-map-simple2/" width="90%" height="350"></iframe>
 
