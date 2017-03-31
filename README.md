@@ -9,4 +9,5 @@ This website includes:
 
 <iframe src="https://jordanpolitz.github.io/leaflet-map-simple2/" width="90%" height="350"></iframe>
 
- <iframe src="https://jordanpolitz.github.io/highcharts-scatter-csv/" width="90%" height="350"></iframe>
+
+<iframe src="https://jordanpolitz.github.io/highcharts-scatter-csv/" width="90%" height="350"></iframe>
