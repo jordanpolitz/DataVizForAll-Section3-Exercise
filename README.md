@@ -1,6 +1,6 @@
+# DataVizForAll-Section3-Exercise
 https://jordanpolitz.github.io/DataVizForAll-Section3-Exercise/
 
-# DataVizForAll-Section3-Exercise
 This website includes:
 
 1 . Leaflet map: Three Universities in Hartford, CT
